@@ -28,4 +28,4 @@ cd ascii-fantasy
 ```
 
 ## Credits
-ASCII Fantasy is developed by [Jehyann](https://github.com/Jehyann "Jehyann"), [Draknut](https://github.com/Draknut "Draknut") and [46Yuu](https://github.com/46Yuu "46Yuu").
+ASCII Fantasy is developed by [Jehyann](https://github.com/Jehyann "Jehyann"), [Draknut](https://github.com/Draknut "Draknut") and [46Yuu](https://github.com/46Yuu "46Yuu"). This work is not up for contributions, do not claim this work as yours or use it in any of your work.
