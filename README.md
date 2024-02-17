@@ -1,4 +1,4 @@
-# ASCII FantasyASCII Fantasy
+# ASCII Fantasy
 ASCII Fantasy is a console-based fantasy game developed in C# that brings a classic RPG experience to your terminal. Explore a procedurally generated world filled with adventures, battles, and mysteries as you lead your team of heroes to victory!
 
 ## Features
