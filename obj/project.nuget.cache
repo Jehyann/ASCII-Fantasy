@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGLq60J8uYPNhZQAB3ZrDxMqK9+RCp9XtU+Y1uc1V+fiCj2sE2JAXaDOv2itkgPvA+MgqI6jq5w67aHq7OGYlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\htran\\Documents\\GitHub\\ASCII-Fantasy\\ASCIIFantasy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\htran\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
